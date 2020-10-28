@@ -1,6 +1,6 @@
 <?php
 include_once "Estudiante.php";
-
+//test
 $estudiante = new Estudiante();
 $resultado = $estudiante->mostrar();
 
